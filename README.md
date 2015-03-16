@@ -1,6 +1,6 @@
 # HELLO PERLIS 
 
-This is a simple, single file PHP plugin shamelessly based on Matt Mullenweg's 'Hello Dolly' plugin, which write random lyrics to the upper right corner of your WordPress.org admin screen. Instead of showtunes, we're going to see the famous 'Epigrams on Programming' by Alan J. Perlis (**ACM SIGPLAN Notices**, September 1982).
+This is a simple, single file PHP plugin shamelessly based on Matt Mullenweg's 'Hello Dolly' plugin, which writes random lyrics to the upper right corner of your WordPress.org admin screen. Instead of showtunes, we're going to see the famous 'Epigrams on Programming' by Alan J. Perlis (*ACM SIGPLAN Notices*, September 1982).
 
 ## Installation
 
