@@ -169,13 +169,13 @@ function Epigrams_css() {
 	echo "
 	<style type='text/css'>
 	#epigrams {
-		float: right;
-                max-width: 300px;
-		padding-$x: 15px;
-		padding-top: 5px;		
-		margin: 0;
-		font-size: 11px;
-	}
+    		float: right;
+    		max-width: 45em;
+    		padding-$x: 1.25em;
+    		padding-top: .2em;
+    		margin: 0;
+    		font-size: 0.9em;
+        }
 	</style>
 	";
 }
