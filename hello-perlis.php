@@ -23,7 +23,7 @@ Perlis 6. Symmetry is a complexity reducing concept (co-routines include sub-rou
 Perlis 7. It is easier to write an incorrect program than understand a correct one.
 Perlis 8. A programming language is low level when its programs require attention to the irrelevant.
 Perlis 9. It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
-Perlis 10. Get into a rut early: Do the same processes the same way. Accumulate idioms. Standardize. The only difference (!) between Perlis 1. Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
+Perlis 10. Get into a rut early: Do the same processes the same way. Accumulate idioms. Standardize. The only difference(!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
 Perlis 11. If you have a procedure with 10 parameters, you probably missed some.
 Perlis 12. Recursion is the root of computation since it trades description for time.
 Perlis 13. If two people write exactly the same program, each should be put in micro-code and then they certainly won't be the same.
